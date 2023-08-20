@@ -3,8 +3,8 @@
     --theme-signup: black;
     --theme-signup-darken: black;
     --theme-signup-background: black;
-    --theme-login: rgb(201, 201, 0);
-    --theme-login-darken: yellow;
+    --theme-login: rgb(183, 162, 6);
+    --theme-login-darken: rgb(183, 162, 6);
     --theme-login-background: black;
     --theme-dark: white;
     --theme-light: white;
@@ -69,7 +69,7 @@ p {
     left: 0;
     width: 50%;
     height: 100%;
-    background: var(--theme-login);
+    background: rgb(183, 162, 6);
   }
   
   #back {

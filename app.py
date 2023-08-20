@@ -5,8 +5,7 @@ app.secret_key = 'fbfe54c431b28e24063d27c487c54d1d'  # Replace with your actual 
 
 # Simulated database of usernames and passwords
 users = {
-    "user1": "password1",
-    "user2": "password2"
+    "Extoren": "password1",
 }
 
 @app.route("/")
