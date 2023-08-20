@@ -1,4 +1,4 @@
-name: my-cms
+name: portfolio
 services:
   - name: web
     type: python
