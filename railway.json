@@ -1,0 +1,12 @@
+{
+    "name": "portfolio",
+    "services": [
+      {
+        "name": "web",
+        "type": "python",
+        "buildCommand": "pip install -r requirements.txt",
+        "startCommand": "python app.py"
+      }
+    ]
+  }
+  
